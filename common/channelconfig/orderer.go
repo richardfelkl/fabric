@@ -41,7 +41,7 @@ const (
 	KafkaBrokersKey = "KafkaBrokers"
 
 	// EndpointsKey is the cb.COnfigValue key name for the Endpoints message in the OrdererOrgGroup.
-	EndpointsKey = "Endpoints"
+	EndpointsKey = "OrdererEndpoints"
 )
 
 // OrdererProtos is used as the source of the OrdererConfig.
